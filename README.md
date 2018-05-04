@@ -11,4 +11,4 @@ Problems with the current (traditional) approach
 
 The purpose of this project is to eliminate all of these demerits from the current system and transform it in sync with the 21st century business model to make it as convenient as possible for the consumer and at the same time making it profitable for the businesses by automating the process of placing an order and increase in revenue by reduced workforce.
 
-To Run, Goto - https://rawgit.com/anooptiwari-in/SmartPhoneBasedSelfServiceKiosk/master/index.html
+To Run, Goto - https://rawgit.com/anooptiwari-in/Smart-Phone-Based-Self-Service-Kiosk/master/index.html
